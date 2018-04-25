@@ -1,0 +1,56 @@
+.navbar {
+    background-color: black;
+    height: 80px;
+    
+}
+
+.bignavbar
+{
+    
+   margin: auto;
+   width: 50%;
+   float: none;
+   background: transparent;
+   display: flex;
+    margin: 0 0 30px 0;
+    list-style-type: none;
+    margin-top: 40px;
+    
+}
+
+.bignavbar > li
+{
+    padding-right: 140px;
+    font-size: 18px;
+    
+}
+
+.bignavbar > li > a:hover
+{
+    color: hotpink;
+    text-decoration: none;
+   
+}
+
+.smallnav > li > a:hover
+{
+    color: hotpink !important;
+
+}
+
+.nav a:hover
+{
+    background-color: green;
+}
+a
+{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    
+}
+
+#toggleButton{
+    background-color: lightskyblue;
+}
+
+

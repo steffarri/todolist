@@ -1,0 +1,46 @@
+.contactcontainer
+{
+   align-items: center;
+   align-content: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    text-align: center;
+
+}
+
+#content-thanks {
+    text-align: left;
+}
+
+.contacttitle
+{
+    text-align: center;
+}
+
+.btn-class_email {
+   flex-wrap: wrap;
+   display: flex;
+ 
+}
+
+.contact-section {
+
+    background-color: black;
+    color: white;
+    padding-top: 40px;
+    border: 2px solid white;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    flex-wrap: wrap;
+    
+    
+   
+    
+}
+
+img {
+ width: 100%;
+ 
+}
